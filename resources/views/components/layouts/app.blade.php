@@ -1,9 +1,10 @@
 @extends('components.layouts.base')
 
 @section('body')
+<div class="w-full h-full ">
 <x-organisme.sidebar />
-    <div class="w-full h-full ">
-      <div class="flex items-center  p-10 border-4 border-dotted">
+
+      <div class="flex items-center ">
         @yield('content')
 
         @isset($slot)

@@ -1,5 +1,5 @@
 <div class="flex">
-    <div class="flex flex-col w-64 h-screen px-4 py-8 overflow-y-auto border-r bg-gray-900">
+    <div class="flex flex-col w-64 h-screen   px-4 py-8 overflow-y-auto border-r bg-gray-900">
       <h2 class="text-3xl font-semibold text-center text-white">Logo</h2>
 
 
@@ -37,3 +37,4 @@
 
       </div>
     </div>
+
