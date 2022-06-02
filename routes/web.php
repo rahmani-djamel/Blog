@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Action\Pages\Frontend\Index;
 
 use Illuminate\Support\Facades\Route;
 
@@ -14,4 +15,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::view('/', 'welcome')->name('home');
+Route::get('/', Index::class)->name('home');
