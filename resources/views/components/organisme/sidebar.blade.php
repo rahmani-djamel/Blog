@@ -1,6 +1,6 @@
 <div class="flex">
-    <div class="flex flex-col w-64 h-screen px-4 py-8 overflow-y-auto border-r">
-      <h2 class="text-3xl font-semibold text-center text-blue-800">Logo</h2>
+    <div class="flex flex-col w-64 h-screen px-4 py-8 overflow-y-auto border-r bg-gray-900">
+      <h2 class="text-3xl font-semibold text-center text-white">Logo</h2>
 
 
       <div class="flex flex-col justify-between mt-6">
@@ -35,10 +35,5 @@
 
         </aside>
 
-      </div>
-    </div>
-    <div class="w-full h-full p-4 m-8 overflow-y-auto">
-      <div class="flex items-center justify-center p-40 border-4 border-dotted">
-        Content...
       </div>
     </div>
